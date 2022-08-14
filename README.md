@@ -7,7 +7,7 @@ How To Calculate The IQV
 
 The formula for the index of qualitative variation is:
 
-    IQV = K(1002 – ΣPct2) / 1002(K – 1) 
+    IQV = K(100^2 – Σ(Pct^2)) / 100^2(K – 1)
 
 Where K is the number of categories in the distribution and ΣPct2 is the sum of all squared percentages in the distribution. There are four steps, then, to calculating the IQV:
 
