@@ -16,5 +16,5 @@ Where K is the number of categories in the distribution and ΣPct2 is the sum of
     3. Sum the squared percentages.
     4. Calculate the IQV using the formula above.
 
-Special thanks to [Nicki Lisa Cole, Ph.D.](https://www.thoughtco.com/nicki-lisa-cole-3026033)
+Special thanks to Ashley Crossman, [Nicki Lisa Cole, Ph.D.](https://www.thoughtco.com/nicki-lisa-cole-3026033)
 via [Index of Qualitative Variation](https://www.thoughtco.com/index-of-qualitative-variation-iqv-3026700)
